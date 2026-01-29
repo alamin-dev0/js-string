@@ -15,3 +15,16 @@ if (subject.toLowerCase() === book.toLowerCase()) {
 else {
     console.log('hudai hudai pristha oltai')
 }
+
+const drink = ' water'
+const liquid = '   water     '
+
+
+
+if (drink.trim === liquid.trim) {
+    console.log('panir opor name jibon ')
+}
+
+else {
+    console.log('Somudree pani ache khaite pari na ')
+}
